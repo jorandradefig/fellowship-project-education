@@ -23,3 +23,8 @@ describe('HeaderComponentComponent', () => {
     expect(component).toBeTruthy();
   });
 });
+
+$( document ).ready(function) block
+
+
+$(".dropdown-button").dropdown();
